@@ -12,11 +12,13 @@
 
 > You can easily install iconjar app in your system and use 13k icons easily.
 
-<p align="center">
-    <img src="./output.gif" width="100%" alt="BoxBouncing" />
-</p>
-
 ### 🎪 Get Iconjar 
 Get it from there official website: https://geticonjar.com/
 
 Then you can download and import <a href="https://github.com/iconsbox/iconjar-integration/raw/master/iconbox.iconjar.zip">`iconbox.iconjar`</a> file into your iconjar.
+
+
+<p align="center">
+    <img src="./output.gif" width="100%" alt="BoxBouncing" />
+</p>
+
